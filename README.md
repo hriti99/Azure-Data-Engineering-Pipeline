@@ -12,6 +12,8 @@ Try running the following commands:
 - dbt docs serve # for documentation preview
 
 ### System Architecture
+![image](https://github.com/user-attachments/assets/4e31f625-a368-4ab8-b3d3-b8e0e70b1d44)
+
 ### Resources:
 - [DBT](https://docs.getdbt.com/guides) 
 - [Databricks](https://docs.databricks.com/aws/en)
